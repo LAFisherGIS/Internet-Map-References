@@ -1,5 +1,7 @@
 # Internet-Map-References
 
+REFERENCES
+
 Better Meets Reality.  (2022). Metals Used in Electronics and Technology ( Now & In the Future). Better Meets Reality.  https://bettermeetsreality.com/metals-used-in-electronics-technology-in-new-future-technology/.
 
 Garside, M.  (2021). Silicon - statistics & facts. Statista.  https://www.statista.com/topics/1959/silicon/.
@@ -11,6 +13,10 @@ BGR. (2021). Manganese Production Worldwide by Country. Statista.  https://www.s
 BSLBATT. (2019). What Materials Are In A Lithium Ion Battery? Lithium Battery Factory.  https://www.lithium-battery-factory.com/materials-lithium-ion-battery/.
 
 Eridirect. (2017).  Why is E-Waste Being Shipped to Developing Countries?  Eridirect. https://eridirect.com/blog/2017/06/why-is-e-waste-being-shipped-to-developing-countries/.
+
+ESRI Maps and Data. (2015). World Continents. UCLA Institute for Digital Research and Education. https://apps.gis.ucla.edu/geodata/dataset/continent_ln.
+
+ESRI Maps and Data. (2015). World Countries. UCLA Institute for Digital Research and Education. https://apps.gis.ucla.edu/geodata/dataset/world_countries.
 
 Umicore (N.D.) Telecom optical fibre. Umicore. https://eom.umicore.com/en/germanium-solutions/markets/telecom-optical-fibre/.
 
